@@ -11,6 +11,7 @@ public — it contains nothing but the three icons below.
 | Instagram | `https://raw.githubusercontent.com/onebedwebdev/obw-email-assets/main/icons/instagram.png` |
 | TikTok | `https://raw.githubusercontent.com/onebedwebdev/obw-email-assets/main/icons/tiktok.png` |
 | Email | `https://raw.githubusercontent.com/onebedwebdev/obw-email-assets/main/icons/email.png` |
+| Fade rule | `https://raw.githubusercontent.com/onebedwebdev/obw-email-assets/main/icons/fade.png` |
 
 60×60 PNG, transparent background, `#6B6259` to match the signature's link colour.
 Displayed at 18px in the signature, so they stay sharp on retina screens.
